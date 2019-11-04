@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1545745859 source:c:\users\lenovo\desktop\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"structs.h"
+	"add.h"
+	"load.h"
+	"save.h"
+	"swap.h"
+	"sort.h"
+	"search.h"
+	"delete.h"
+
+1545862901 
+
+1545343764 c:\users\lenovo\desktop\final project\structs.h
+
+1545737147 c:\users\lenovo\desktop\final project\add.h
+	"checksave.h"
+	<ctype.h>
+
+1545737147 
+
+1545344022 c:\users\lenovo\desktop\final project\checksave.h
+
+1545344623 c:\users\lenovo\desktop\final project\load.h
+
+1545344513 c:\users\lenovo\desktop\final project\save.h
+
+1545344745 c:\users\lenovo\desktop\final project\swap.h
+
+1545344745 c:\users\lenovo\desktop\final project\sort.h
+
+1545344839 c:\users\lenovo\desktop\final project\search.h
+
+1545351379 c:\users\lenovo\desktop\final project\delete.h
+
+1545900362 source:d:\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"add.h"
+	"load.h"
+	"save.h"
+	"swap.h"
+	"sort.h"
+	"search.h"
+	"delete.h"
+	"modify.h"
+
+1545343766 d:\final project\structs.h
+
+1545895252 d:\final project\add.h
+	"checksave.h"
+	<ctype.h>
+	"isvalid.h"
+
+1545857850 "
+
+1545344024 d:\final project\checksave.h
+
+1545852146 d:\final project\load.h
+
+1545852146 d:\final project\save.h
+
+1545344746 d:\final project\swap.h
+
+1545863698 d:\final project\sort.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545862901 d:\final project\search.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545848965 d:\final project\delete.h
+
+1545860420 d:\final project\isvalid.h
+
+1545857850 d:\final project\modify.h
+	"isvalid.h"
+
+1545900364 source:/home/ayman/Desktop/final project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+	"add.h"
+	"load.h"
+	"save.h"
+	"swap.h"
+	"sort.h"
+	"search.h"
+	"delete.h"
+	"modify.h"
+
+1545343766 /home/ayman/Desktop/final project/structs.h
+
+1545895254 /home/ayman/Desktop/final project/add.h
+	"checksave.h"
+	<ctype.h>
+	"isvalid.h"
+
+1545344024 /home/ayman/Desktop/final project/checksave.h
+
+1545860422 /home/ayman/Desktop/final project/isvalid.h
+
+1545852148 /home/ayman/Desktop/final project/load.h
+
+1545852148 /home/ayman/Desktop/final project/save.h
+
+1545344746 /home/ayman/Desktop/final project/swap.h
+
+1545863700 /home/ayman/Desktop/final project/sort.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545862902 /home/ayman/Desktop/final project/search.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545848966 /home/ayman/Desktop/final project/delete.h
+
+1545857852 /home/ayman/Desktop/final project/modify.h
+	"isvalid.h"
+
